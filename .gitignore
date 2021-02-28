@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project specific files folders
+*.csv
+*.json
+/data/
+/my_docs/
+/my_scripts/
