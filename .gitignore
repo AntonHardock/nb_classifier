@@ -10,5 +10,5 @@ __pycache__/
 *.csv
 *.json
 /data/
-/my_docs/
+/mydocs/
 /my_scripts/
